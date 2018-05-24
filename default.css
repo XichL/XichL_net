@@ -59,6 +59,11 @@ h1,h2 {padding-top: 6px;}
 }
 .container {background: url(img/header.gif) no-repeat center top;}
 
+/* background*/
+.background {
+	
+}
+
 /* title */
 .title {
 	font: normal 3em Tahoma,sans-serif;
