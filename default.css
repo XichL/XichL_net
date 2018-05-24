@@ -108,7 +108,7 @@ h1,h2 {padding-top: 6px;}
 	font-size: 1.1em;
 	line-height: 1.5em;
 	color: #777;
-	text-decoration: none;
+	/*text-decoration: none;*/
 	text-align: center:
 }
 .menuFrame li a:hover {color: #8DCA3F;}
