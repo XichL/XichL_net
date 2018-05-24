@@ -103,7 +103,7 @@ h1,h2 {padding-top: 6px;}
 	margin: 0;
 }
 .menuFrame ul {padding: 0.5em 0 0 0.5em;}
-.menuFrame li {list-style: none;}
+/*.menuFrame li {list-style: none;}*/
 .menuFrame li a {
 	font-size: 1.1em;
 	line-height: 1.5em;
